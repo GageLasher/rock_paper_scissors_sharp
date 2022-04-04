@@ -1,0 +1,15 @@
+/Users/gagelasher/rock_paper_scissors_sharp/bin/Debug/net6.0/rock_paper_scissors_sharp
+/Users/gagelasher/rock_paper_scissors_sharp/bin/Debug/net6.0/rock_paper_scissors_sharp.deps.json
+/Users/gagelasher/rock_paper_scissors_sharp/bin/Debug/net6.0/rock_paper_scissors_sharp.runtimeconfig.json
+/Users/gagelasher/rock_paper_scissors_sharp/bin/Debug/net6.0/rock_paper_scissors_sharp.dll
+/Users/gagelasher/rock_paper_scissors_sharp/bin/Debug/net6.0/rock_paper_scissors_sharp.pdb
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.csproj.AssemblyReference.cache
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.AssemblyInfoInputs.cache
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.AssemblyInfo.cs
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.csproj.CoreCompileInputs.cache
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.dll
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/refint/rock_paper_scissors_sharp.dll
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.pdb
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/rock_paper_scissors_sharp.genruntimeconfig.cache
+/Users/gagelasher/rock_paper_scissors_sharp/obj/Debug/net6.0/ref/rock_paper_scissors_sharp.dll
